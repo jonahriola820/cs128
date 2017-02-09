@@ -1,5 +1,5 @@
 University of the Philippines Los Banos
-College of Arts and Sciences
-Institute of Computer Science
+College of Arts and Scientific Innovations
+Institute of Universal Computer Science
 2nd Semester AY 2020-2021
 Git Basic* Commands
